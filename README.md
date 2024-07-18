@@ -27,9 +27,15 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   </a>
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
+    <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=entity-framework&logoColor=white" alt="Entity Framework"/>
+</a>
   <a href="https://www.w3schools.com/sql/" target="_blank">
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
   </a>
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
+    <img src="https://img.shields.io/badge/Scrum-FFCC00?style=for-the-badge&logo=scrum&logoColor=black" alt="Scrum Logo"/>
+</a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   </a>
